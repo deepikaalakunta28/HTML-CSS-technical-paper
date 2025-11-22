@@ -194,7 +194,6 @@ These classes are used to style elements quickly and consistently across a webpa
 
 CSS **specificity** determines which CSS rule is applied when multiple rules target the same element. The browser chooses the rule with the highest specificity.
 
-### Specificity Ranking (Highest → Lowest)
 #### Inline styles
    ```html
    <p style="color: red;">
