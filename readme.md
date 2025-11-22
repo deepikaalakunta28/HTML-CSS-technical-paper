@@ -61,11 +61,11 @@ The CSS Box Model is a basic and important idea in web design. It explains how w
 ```
 ## Inline Elements
 ### What they do:
-Do not start a new line
-Only take up as much width as needed
-Cannot contain block elements (normally)
-width and height do not apply the same way
-Only horizontal padding and margin affect layout clearly
+- Do not start a new line
+- Only take up as much width as needed
+- Cannot contain block elements (normally)
+- width and height do not apply the same way
+- Only horizontal padding and margin affect layout clearly
 
 ### Common inline elements:
 ```
